@@ -1,0 +1,31 @@
+.T1{
+justify-content: center;
+display: flex;
+}
+
+.T2{
+text-align: left;
+position: absolute;
+left: 10%;
+
+}
+
+.T3{
+    text-align: left;
+    position: absolute;
+    left: 80%;
+    
+}
+
+.I1{
+position: relative;
+left: 33%;
+width: 30%;
+margin-top: 10%;
+
+}
+
+.o1{
+background-image: linear-gradient(blue,black,yellow);
+
+}
