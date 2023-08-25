@@ -29,3 +29,27 @@ margin-top: 10%;
 background-image: linear-gradient(blue,black,yellow);
 
 }
+
+.p{
+    position: relative;
+    left: 33%;
+    width: 30%;
+    margin-top: 10%;
+    
+}
+
+.q{
+    position: relative;
+    left: 33%;
+    width: 30%;
+    margin-top: 10%;
+    
+
+}
+.l{
+    position: relative;
+    left: 33%;
+    width: 30%;
+    margin-top: 10%;
+     
+}
